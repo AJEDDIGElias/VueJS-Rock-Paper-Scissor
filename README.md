@@ -1,4 +1,4 @@
-# Anime Tracker (VueJS)
+# GAME - ROCK PAPER SCISSORS (VueJS)
 
 ![Demo](/src/assets/Animation.gif)
 
